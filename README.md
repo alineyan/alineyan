@@ -1,0 +1,5 @@
+# Sobre mim
+- 👋 Olá,meu nome é @alineyan
+- :+1: Meu  email de contato é aline.yan@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou apredendo a progranar recetemente a linguagem de JavaScript e Scratch
